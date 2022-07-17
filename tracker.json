@@ -1,0 +1,26 @@
+[
+  {
+    "title": "Morning Azkar",
+    "version": "1",
+    "language": "AR",
+    "json": "/morning_azkar_AR.json"
+  },
+  {
+    "title": "Night Azkar",
+    "version": "1",
+    "language": "AR",
+    "json": "/night_azkar_AR.json"
+  },
+  {
+    "title": "Morning Azkar",
+    "version": "1",
+    "language": "EN",
+    "json": "/morning_azkar_EN.json"
+  },
+  {
+    "title": "Night Azkar",
+    "version": "1",
+    "language": "EN",
+    "json": "/night_azkar_EN.json"
+  }
+]
